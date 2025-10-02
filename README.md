@@ -4,7 +4,7 @@ Delphi project for converting DOC/DOCX (Microsoft Word) and other document forma
 
 ## Requirements
 
-- Delphi 10.4 Sydney or later
+- Delphi 
 - **TotalDocConverterX** installed on the system
   - Download from: https://www.coolutils.com/TotalDocConverterX
 - Windows OS
@@ -46,7 +46,7 @@ git clone https://github.com/yourusername/doc-to-pdf-converter.git
 cd doc-to-pdf-converter
 ```
 
-Open the project in Delphi 10.4 or later, build and run.
+Open the project in Delphi, build and run.
 
 ## Usage
 
